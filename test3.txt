@@ -1,0 +1,4 @@
+This is 2 nd stage of testing, hope will work well
+ Please adapt and uncomment the following lines:
+practice well, you need to move to Devops side
+
